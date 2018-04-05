@@ -1,4 +1,7 @@
 # Random-Forest_diabet-dataset
+
+Random Forest algorithm implemnetation
+
 Overview
 
 This dataset concerns to predict patients with diabetic or not.
